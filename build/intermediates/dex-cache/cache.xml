@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Амфетамин\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.0\support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="C:\AndroidStudioProjects\timer3\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.0-bda85b1f9caa18809b60bae7ff335e128ec87c85.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\timer3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6384c6cd674a22610b932d9464aa6938d067f285">
+        <dex dex="C:\AndroidStudioProjects\timer3\app\build\intermediates\pre-dexed\debug\classes-67f44cf17e479b647fcac109fad31bd00d3d4ded.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\timer3\app\build\intermediates\exploded-aar\com.google.android.support\wearable\1.1.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="27f19641b81b1078e653d2f0e5d1ed44d158a785">
+        <dex dex="C:\AndroidStudioProjects\timer3\app\build\intermediates\pre-dexed\debug\classes-e039d597186b5d09b3358b0bf48651eeb632dd95.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\timer3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\libs\internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="C:\AndroidStudioProjects\timer3\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.0-3b3519a252b726cf3a19e968987aac4192509373.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\timer3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="C:\AndroidStudioProjects\timer3\app\build\intermediates\pre-dexed\debug\classes-f335e482acc529e8b5b0355a6bde1dd866f2e548.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\timer3\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\6.5.87\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="95482e7c792a7c0d5a9d5461e97726bd54fe9549">
+        <dex dex="C:\AndroidStudioProjects\timer3\app\build\intermediates\pre-dexed\debug\classes-0f96b8f8b5a3e51b761c50d161f64c1f1d8255fe.jar" />
+    </item>
+    <item
+        jar="C:\AndroidStudioProjects\timer3\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.0\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="C:\AndroidStudioProjects\timer3\app\build\intermediates\pre-dexed\debug\classes-0530f2c9363a35cebfdb058157289b239c841492.jar" />
+    </item>
+
+</items>
