@@ -6,3 +6,4 @@ This app allows user to set loop timer on your android wear watches (API 20), pa
 ![Alt text](http://radikall.com/images/2015/01/16/D1gkR.th.png "Manage timer" )
 
 
+http://www.amazon.com/Lapshov-Ivan-Simple-Wear-Timer/dp/B00SHXERBK
